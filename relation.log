@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.11)  16 FEB 2023 20:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.1) (preloaded format=pdflatex 2022.3.11)  17 FEB 2023 12:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1305,7 +1305,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--5
 
  []
 
-<Img/logo.jpg, id=150, 250.9375pt x 175.65625pt>
+<Img/logo.jpg, id=185, 250.9375pt x 175.65625pt>
 File: Img/logo.jpg Graphic file (type jpg)
 <use Img/logo.jpg>
 Package pdftex.def Info: Img/logo.jpg  used on input line 7.
@@ -1341,7 +1341,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [3] (Res/Sections/homepage.tex
-<Img/hom1.png, id=168, 1444.64719pt x 673.76718pt>
+<Img/hom1.png, id=203, 1444.64719pt x 673.76718pt>
 File: Img/hom1.png Graphic file (type png)
 <use Img/hom1.png>
 Package pdftex.def Info: Img/hom1.png  used on input line 7.
@@ -1351,12 +1351,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 19--22
 
  []
 
-<Img/hom2.png, id=170, 1444.64719pt x 677.53125pt>
+<Img/hom2.png, id=205, 1444.64719pt x 677.53125pt>
 File: Img/hom2.png Graphic file (type png)
 <use Img/hom2.png>
 Package pdftex.def Info: Img/hom2.png  used on input line 24.
 (pdftex.def)             Requested size: 341.43306pt x 160.12962pt.
-<Img/hom3.png, id=171, 1445.4pt x 676.77844pt>
+<Img/hom3.png, id=206, 1445.4pt x 676.77844pt>
 File: Img/hom3.png Graphic file (type png)
 <use Img/hom3.png>
 Package pdftex.def Info: Img/hom3.png  used on input line 29.
@@ -1370,12 +1370,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [4 <./Img/hom1.png> <./Img/hom2.png>]
-<Img/hom4.png, id=182, 1445.4pt x 679.78969pt>
+<Img/hom4.png, id=217, 1445.4pt x 679.78969pt>
 File: Img/hom4.png Graphic file (type png)
 <use Img/hom4.png>
 Package pdftex.def Info: Img/hom4.png  used on input line 34.
 (pdftex.def)             Requested size: 341.43306pt x 160.58041pt.
-<Img/hom5.png, id=183, 1445.4pt x 674.52pt>
+<Img/hom5.png, id=218, 1445.4pt x 674.52pt>
 File: Img/hom5.png Graphic file (type png)
 <use Img/hom5.png>
 Package pdftex.def Info: Img/hom5.png  used on input line 40.
@@ -1390,17 +1390,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [5 <./Img/hom3.png> <./Img/hom4.png> <./Img/hom5.png>]
-<Img/content1.png, id=195, 1445.4pt x 677.53125pt>
+<Img/content1.png, id=230, 1445.4pt x 677.53125pt>
 File: Img/content1.png Graphic file (type png)
 <use Img/content1.png>
 Package pdftex.def Info: Img/content1.png  used on input line 49.
 (pdftex.def)             Requested size: 341.43306pt x 160.04692pt.
-<Img/content2.png, id=196, 1444.64719pt x 674.52pt>
+<Img/content2.png, id=231, 1444.64719pt x 674.52pt>
 File: Img/content2.png Graphic file (type png)
 <use Img/content2.png>
 Package pdftex.def Info: Img/content2.png  used on input line 54.
 (pdftex.def)             Requested size: 341.43306pt x 159.41794pt.
-<Img/contacts.png, id=197, 1445.4pt x 676.02562pt>
+<Img/contacts.png, id=232, 1445.4pt x 676.02562pt>
 File: Img/contacts.png Graphic file (type png)
 <use Img/contacts.png>
 Package pdftex.def Info: Img/contacts.png  used on input line 61.
@@ -1415,12 +1415,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [6 <./Img/content1.png> <./Img/content2.png> <./Img/contacts.png>]
-<Img/where1.png, id=210, 561.59813pt x 264.99pt>
+<Img/where1.png, id=245, 561.59813pt x 264.99pt>
 File: Img/where1.png Graphic file (type png)
 <use Img/where1.png>
 Package pdftex.def Info: Img/where1.png  used on input line 76.
 (pdftex.def)             Requested size: 341.43306pt x 161.10588pt.
-<Img/where2.png, id=211, 1445.4pt x 673.01437pt>
+<Img/where2.png, id=246, 1445.4pt x 673.01437pt>
 File: Img/where2.png Graphic file (type png)
 <use Img/where2.png>
 Package pdftex.def Info: Img/where2.png  used on input line 81.
@@ -1435,12 +1435,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [7 <./Img/where1.png> <./Img/where2.png>]
-<Img/who.png, id=220, 1440.13031pt x 673.01437pt>
+<Img/who.png, id=255, 1440.13031pt x 673.01437pt>
 File: Img/who.png Graphic file (type png)
 <use Img/who.png>
 Package pdftex.def Info: Img/who.png  used on input line 96.
 (pdftex.def)             Requested size: 341.43306pt x 159.55502pt.
-<Img/why.png, id=221, 564.60938pt x 151.3153pt>
+<Img/why.png, id=256, 564.60938pt x 151.3153pt>
 File: Img/why.png Graphic file (type png)
 <use Img/why.png>
 Package pdftex.def Info: Img/why.png  used on input line 107.
@@ -1455,12 +1455,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [8 <./Img/who.png> <./Img/why.png>]
-<Img/news.png, id=229, 1445.4pt x 671.50874pt>
+<Img/news.png, id=264, 1445.4pt x 671.50874pt>
 File: Img/news.png Graphic file (type png)
 <use Img/news.png>
 Package pdftex.def Info: Img/news.png  used on input line 127.
 (pdftex.def)             Requested size: 341.43306pt x 158.62428pt.
-<Img/how.png, id=230, 1441.63594pt x 676.77844pt>
+<Img/how.png, id=265, 1441.63594pt x 676.77844pt>
 File: Img/how.png Graphic file (type png)
 <use Img/how.png>
 Package pdftex.def Info: Img/how.png  used on input line 138.
@@ -1475,17 +1475,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [9 <./Img/news.png> <./Img/how.png>]
-<Img/menu.png, id=239, 1437.87187pt x 123.46124pt>
+<Img/menu.png, id=274, 1437.87187pt x 123.46124pt>
 File: Img/menu.png Graphic file (type png)
 <use Img/menu.png>
 Package pdftex.def Info: Img/menu.png  used on input line 154.
 (pdftex.def)             Requested size: 341.43306pt x 29.31668pt.
-<Img/menu2.png, id=240, 1445.4pt x 188.95593pt>
+<Img/menu2.png, id=275, 1445.4pt x 188.95593pt>
 File: Img/menu2.png Graphic file (type png)
 <use Img/menu2.png>
 Package pdftex.def Info: Img/menu2.png  used on input line 166.
 (pdftex.def)             Requested size: 341.43306pt x 44.6353pt.
-<Img/menu3.png, id=241, 1445.4pt x 180.675pt>
+<Img/menu3.png, id=276, 1445.4pt x 180.675pt>
 File: Img/menu3.png Graphic file (type png)
 <use Img/menu3.png>
 Package pdftex.def Info: Img/menu3.png  used on input line 177.
@@ -1501,17 +1501,17 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 [10 <./Img/menu.png> <./Img/menu2.png> <./Img/menu3.png>]
 (Res/Sections/analysis.tex
-<Img/bred2.png, id=254, 1445.4pt x 341.02406pt>
+<Img/bred2.png, id=289, 1445.4pt x 341.02406pt>
 File: Img/bred2.png Graphic file (type png)
 <use Img/bred2.png>
 Package pdftex.def Info: Img/bred2.png  used on input line 9.
 (pdftex.def)             Requested size: 341.43306pt x 80.55695pt.
-<Img/bred1.png, id=255, 1445.4pt x 548.80031pt>
+<Img/bred1.png, id=290, 1445.4pt x 548.80031pt>
 File: Img/bred1.png Graphic file (type png)
 <use Img/bred1.png>
 Package pdftex.def Info: Img/bred1.png  used on input line 16.
 (pdftex.def)             Requested size: 341.43306pt x 129.638pt.
-<Img/Shop.png, id=256, 1445.4pt x 675.27281pt>
+<Img/Shop.png, id=291, 1445.4pt x 675.27281pt>
 File: Img/Shop.png Graphic file (type png)
 <use Img/Shop.png>
 Package pdftex.def Info: Img/Shop.png  used on input line 27.
@@ -1526,12 +1526,12 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [11 <./Img/bred2.png> <./Img/bred1.png>]
-<Img/menushop1.png, id=264, 326.72063pt x 625.58719pt>
+<Img/menushop1.png, id=300, 326.72063pt x 625.58719pt>
 File: Img/menushop1.png Graphic file (type png)
 <use Img/menushop1.png>
 Package pdftex.def Info: Img/menushop1.png  used on input line 37.
 (pdftex.def)             Requested size: 199.16966pt x 341.4394pt.
-<Img/menushop2.png, id=265, 609.02531pt x 586.44093pt>
+<Img/menushop2.png, id=301, 609.02531pt x 586.44093pt>
 File: Img/menushop2.png Graphic file (type png)
 <use Img/menushop2.png>
 Package pdftex.def Info: Img/menushop2.png  used on input line 42.
@@ -1546,10 +1546,44 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
 [12 <./Img/Shop.png> <./Img/menushop1.png>]
-<Img/404.png, id=276, 1445.4pt x 663.98062pt>
-File: Img/404.png Graphic file (type png)
-<use Img/404.png>
-Package pdftex.def Info: Img/404.png  used on input line 61.
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[13 <./Img/menushop2.png>]
+<Img/search.png, id=319, 330.48468pt x 363.60844pt>
+File: Img/search.png Graphic file (type png)
+<use Img/search.png>
+Package pdftex.def Info: Img/search.png  used on input line 56.
+(pdftex.def)             Requested size: 284.53906pt x 341.44243pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[14 <./Img/search.png>]
+<Img/product.png, id=327, 1445.4pt x 678.28406pt>
+File: Img/product.png Graphic file (type png)
+<use Img/product.png>
+Package pdftex.def Info: Img/product.png  used on input line 75.
+(pdftex.def)             Requested size: 341.43306pt x 160.22475pt.
+<Img/price.png, id=328, 1445.4pt x 657.2053pt>
+File: Img/price.png Graphic file (type png)
+<use Img/price.png>
+Package pdftex.def Info: Img/price.png  used on input line 84.
+(pdftex.def)             Requested size: 341.43306pt x 155.24551pt.
+<Img/noresult.png, id=329, 1445.4pt x 663.98062pt>
+File: Img/noresult.png Graphic file (type png)
+<use Img/noresult.png>
+Package pdftex.def Info: Img/noresult.png  used on input line 94.
 (pdftex.def)             Requested size: 341.43306pt x 156.84598pt.
 
 
@@ -1560,12 +1594,32 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[13 <./Img/menushop2.png>]
-Overfull \hbox (13.77792pt too wide) in paragraph at lines 66--67
+[15 <./Img/product.png> <./Img/price.png>]
+<Img/404.png, id=340, 1445.4pt x 771.63281pt>
+File: Img/404.png Graphic file (type png)
+<use Img/404.png>
+Package pdftex.def Info: Img/404.png  used on input line 104.
+(pdftex.def)             Requested size: 341.43306pt x 182.27567pt.
+
+
+Package fancyhdr Warning: \headheight is too small (12.0pt): 
+(fancyhdr)                Make it at least 14.49998pt, for example:
+(fancyhdr)                \setlength{\headheight}{14.49998pt}.
+(fancyhdr)                You might also make \topmargin smaller to compensate:
+
+(fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
+
+[16 <./Img/noresult.png> <./Img/404.png>]
+Overfull \hbox (13.77792pt too wide) in paragraph at lines 111--112
 \T1/cmr/m/n/12 The page that we an-a-lyze is [][]$\T1/cmtt/l/it/12 https : / / 
 siciliangoodness . shop / padovaviaroma / rosticceria /
  []
 
+<Img/internal.png, id=352, 1445.4pt x 675.27281pt>
+File: Img/internal.png Graphic file (type png)
+<use Img/internal.png>
+Package pdftex.def Info: Img/internal.png  used on input line 114.
+(pdftex.def)             Requested size: 341.43306pt x 159.51343pt.
 )
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -1575,7 +1629,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[14 <./Img/404.png>] (Res/Sections/advertising.tex)
+[17 <./Img/internal.png>] (Res/Sections/advertising.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1584,7 +1638,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[15] (Res/Sections/Conclusion.tex)
+[18] (Res/Sections/Conclusion.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1593,7 +1647,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[16] (Res/Sections/pictures.tex)
+[19] (Res/Sections/pictures.tex)
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 14.49998pt, for example:
@@ -1602,20 +1656,20 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 
 (fancyhdr)                \addtolength{\topmargin}{-2.49998pt}.
 
-[17]) 
+[20]) 
 AED: lastpage setting LastPage
 (relation.aux (Res/Sections.aux))
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
 Package rerunfilecheck Info: File `relation.out' has not changed.
-(rerunfilecheck)             Checksum: 8E411F1890E863F4411620BB6C41C55F;2457.
+(rerunfilecheck)             Checksum: 97B3E6FE55398E13072D0E4B3385A481;3104.
  ) 
 Here is how much of TeX's memory you used:
- 29087 strings out of 478582
- 553020 string characters out of 2843872
- 1000765 words of memory out of 3000000
- 46626 multiletter control sequences out of 15000+600000
+ 29144 strings out of 478582
+ 554025 string characters out of 2843872
+ 1003765 words of memory out of 3000000
+ 46663 multiletter control sequences out of 15000+600000
  482356 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  89i,11n,125p,580b,599s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1633,9 +1687,9 @@ our/jknappen/ec/dpi600\ecbx1728.pk> <C:\Users\Matteo\AppData\Local\MiKTeX\fonts
 X\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx1200.pk> <C:\Users\Matteo\AppData\Loca
 l\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1440.pk> <C:\Users\Matteo\AppDa
 ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx2488.pk>
-Output written on relation.pdf (18 pages, 24329352 bytes).
+Output written on relation.pdf (21 pages, 26535489 bytes).
 PDF statistics:
- 609 PDF objects out of 1000 (max. 8388607)
- 68 named destinations out of 1000 (max. 500000)
- 338 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 688 PDF objects out of 1000 (max. 8388607)
+ 83 named destinations out of 1000 (max. 500000)
+ 419 words of extra memory for PDF output out of 10000 (max. 10000000)
 
